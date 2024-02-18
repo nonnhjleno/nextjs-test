@@ -4,6 +4,6 @@ export default function AboutLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="flex justify-center items-center h-screen">{children}</div>
+    <div className="">{children}</div>
   );
 }
